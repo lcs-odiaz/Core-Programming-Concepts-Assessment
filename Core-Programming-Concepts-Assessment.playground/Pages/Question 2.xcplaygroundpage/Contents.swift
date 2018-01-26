@@ -23,8 +23,17 @@
  **Then, use `print()` statements to briefly explain why you chose to use a variable or a constant for each piece of information above.**
  
  */
-// Answer question 2 below
 
+let bookName = "How To Get 100% In This Assesment"
+print("This is a constant because the book name will not change")
+var numberOfCopiesSold = 10000000000001
+print("This is a variable because the number sold will likely change")
+let authorOfBook = "Octavio Diaz"
+print("This is a constant because the author of the book name will not change")
+var sugestedSellingPrice = 20000000000000
+print("This is a variable because the price will likely change")
+let yearPublished = 2018
+print("This is a constant because the year published will not change")
 /*:
  ## Now share your understanding
  
