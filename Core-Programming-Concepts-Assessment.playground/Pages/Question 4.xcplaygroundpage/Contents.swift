@@ -23,6 +23,14 @@
  
  */
 // Answer question 4 below
+var numberOfAppsUsedToday : Int
+print("I chose integer as a data type to describe this because the number of apps opened can not be a decimal")
+var totalNumberofHoursThatScreenWasOn : Double
+print("I chose double as a data type to describe this because the hours the screen was on can be a number with a decimal")
+var mostPopularApp : String
+print("I chose string as a data type to describe this because the most popular app's name is described with words")
+let currentDate : String
+print("I chose string as a data type to describe this because the most current date is described with words and numbers")
 
 /*:
  ## Now share your understanding
