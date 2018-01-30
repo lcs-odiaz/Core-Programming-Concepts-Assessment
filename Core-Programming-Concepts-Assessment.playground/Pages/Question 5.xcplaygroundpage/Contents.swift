@@ -19,11 +19,11 @@
  - note:
     You'll need to adjust the value of the constants immedidately below to test your code thoroughly.
  */
-let newSnowfallAmount = 9
+let newSnowfallAmount = 10
 let temperatureInCelsius = -6
 let isSnowMakingEquipmentBroken = true
 
-if newSnowfallAmount > 10 || temperatureInCelsius < -5 && isSnowMakingEquipmentBroken == true{
+if newSnowfallAmount > 10 || temperatureInCelsius < -5 && isSnowMakingEquipmentBroken == false{
     print("We're open")
 } else {
     print("We're cosed")
